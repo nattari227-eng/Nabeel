@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "studio.ai.al_mushaf_15_line_tajweed_quran.twa",
+        "sha256_cert_fingerprints": ["CD:F6:FF:20:92:7A:93:32:BB:1A:89:08:D0:81:AE:30:BB:D5:A0:7D:EA:C5:B2:5F:33:40:B9:A9:E5:19:68:11"]
+      }
+    }]
