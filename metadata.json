@@ -1,0 +1,6 @@
+{
+  "name": "Al-Mushaf 15-Line Tajweed Quran",
+  "description": "100% offline-ready 15-Line Indo-Pak Tajweed Quran reader with 3D page curl, Mutashabihat index, Sirat-ul-Jinan Urdu Tafsir, and complete Android Kotlin/Compose source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
